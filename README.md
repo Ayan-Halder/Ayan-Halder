@@ -1,4 +1,4 @@
-<img src="https://github.com/Ayan-Halder/Ayan-Halder/blob/50f4f824a587021417921827fdc082769667cad1/web-developer.png" style="width: 50%; text-align: center;">
+<img src="https://github.com/Ayan-Halder/Ayan-Halder/blob/7d3e189d0164bad85ae1ad7d09216fb7ae9f7d94/web-developer.svg" style="width: 50%; margin: auto;">
 <h1 style="text-align: center"> Hello There! <br> I am <em>AYAN HALDER</em></h1>
 
 <p>👀 I’m interested in Web Development, Machine Learning, IoT & many more...</p>
